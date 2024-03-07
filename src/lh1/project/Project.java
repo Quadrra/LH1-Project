@@ -9,7 +9,7 @@ package lh1.project;
  *
  * @author mrsal
  */
-public class LH1Project {
+public class Project {
 
     /**
      * @param args the command line arguments

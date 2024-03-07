@@ -73,7 +73,7 @@ public class ArtistsBrowser extends javax.swing.JFrame {
         getContentPane().add(jScrollPane1, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 190, 1690, 830));
 
         BG.setBackground(new java.awt.Color(153, 204, 255));
-        BG.setIcon(new javax.swing.ImageIcon("C:\\Users\\Renren\\Desktop\\Search.png")); // NOI18N
+        BG.setIcon(new javax.swing.ImageIcon(getClass().getResource("/lh1/project/IMG/Search.png"))); // NOI18N
         getContentPane().add(BG, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, -10, 2010, 1110));
 
         bindingGroup.bind();

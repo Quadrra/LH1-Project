@@ -122,7 +122,7 @@
           <Color blue="ff" green="cc" red="99" type="rgb"/>
         </Property>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="2" name="C:\Users\Renren\Desktop\Search.png"/>
+          <Image iconType="3" name="/lh1/project/IMG/Search.png"/>
         </Property>
       </Properties>
       <Constraints>
